@@ -32,4 +32,4 @@ CloneHBO/
 
 ## Créditos
 
-Projeto criado para fins de estudo, sem fins comerciais. Todos os direitos das marcas e imagens pertencem à
+Projeto criado para fins de estudo, sem fins comerciais. Todos os direitos das marcas e imagens pertencem à HBO e Warner.
